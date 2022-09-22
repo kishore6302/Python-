@@ -15,3 +15,13 @@ Max num of words
 Basic calculator
 Key words 
 Generate parenthases
+Trading
+Project manager 
+Good pair
+Add binary
+Max number 
+Mirror image 
+Anagrams
+Regular expression
+Word1 to word2
+
